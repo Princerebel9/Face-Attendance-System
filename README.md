@@ -34,14 +34,17 @@ Compares with stored features
 If matched, attendance is marked in attendance.db under a table named attendanceYYYY_MM_DD
 
 
-🧰 Technologies Used
-Tool/Library	Purpose
-Python	Main language
-OpenCV	Face detection & video processing
-Dlib	Face recognition (128D feature extraction)
-Tkinter	GUI for registration
-SQLite	Database for storing data
-Pandas	Data manipulation (CSV)
-PIL (Pillow)	Image processing
+## 🧰 Technologies Used
+
+| Tool/Library | Purpose |
+|--------------|---------|
+| Python       | Main language |
+| OpenCV       | Face detection & video processing |
+| Dlib         | Face recognition (128D feature extraction) |
+| Tkinter      | GUI for registration |
+| SQLite       | Database for storing data |
+| Pandas       | Data manipulation (CSV) |
+| PIL (Pillow) | Image processing |
+
 
 
